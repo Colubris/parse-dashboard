@@ -5,14 +5,10 @@ PIG/bundles/
 Parse-Dashboard/public/bundles/
 Parse-Dashboard/parse-dashboard-config.json
 npm-debug.log
+.eslintcache
 
 // vim .swp
 *.swp
 .env
-<<<<<<< HEAD
-
 Parse-Dashboard/parse-dashboard-config.json
-||||||| merged common ancestors
-=======
 .idea/
->>>>>>> ParsePlatform/master
